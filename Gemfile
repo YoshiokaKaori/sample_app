@@ -10,6 +10,9 @@ group :development, :test do
   gem 'sqlite3', '1.3.8'
   gem 'rspec-rails', '2.13.1'
   gem 'minitest'
+  gem 'pry-rails'
+  gem 'byebug'
+  gem 'web-console'
 end
 group :test do
   gem 'selenium-webdriver', '2.35.1'
