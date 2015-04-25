@@ -1,7 +1,7 @@
 class StaticPagesController < ApplicationController
   def home
-    hoge = "hoge"
-    raise
+#    hoge = "hoge"
+#    raise
   end
 
   def help
